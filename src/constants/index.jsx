@@ -32,7 +32,7 @@ export const NAVIGATION_LINKS = [
 
 export const PROFILE = {
   name: "Lakshan Jayaweera",
-  role: "Front End Developer",
+  role: "Junior System Administrator",
   subheading:
     "Passionate Front-End Developer Dedicated to Creating Seamless and Engaging Web Interfaces.",
 };
