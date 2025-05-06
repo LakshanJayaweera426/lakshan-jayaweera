@@ -33,8 +33,7 @@ export const NAVIGATION_LINKS = [
 export const PROFILE = {
   name: "Lakshan Jayaweera",
   role: "Junior System Administrator",
-  subheading:
-    "Passionate Front-End Developer Dedicated to Creating Seamless and Engaging Web Interfaces.",
+  subheading: "Passionate about IT Infrastructure & Systems Support",
 };
 
 export const PROJECTS = [
@@ -95,6 +94,22 @@ export const PROJECTS = [
 ];
 
 export const SKILLS = [
+  {
+    name: "Windows Server",
+    icon: <RiTerminalLine className="text-blue-500" />,
+  },
+  {
+    name: "Cisco Networking",
+    icon: <RiServerLine className="text-green-500" />,
+  },
+  {
+    name: "PoweerShell",
+    icon: <RiTerminalLine className="text-blue-500" />,
+  },
+  {
+    name: "VMware",
+    icon: <RiServerLine className="text-green-500" />,
+  },
   {
     name: "HTML5",
     icon: <RiHtml5Line className="text-orange-600" />,
