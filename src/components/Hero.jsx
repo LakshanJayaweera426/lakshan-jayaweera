@@ -84,7 +84,7 @@ const Hero = () => {
         {PROFILE.subheading}
       </p>
       <a
-        href="/Lakshan_Jayaweera-Intern_Front_End_Developer-CV.pdf"
+        href="/Lakshan Jayaweera - Trainee Full Stack Developer - CV.pdf"
         target="_blank"
         rel="noopener noreferrer"
         download
