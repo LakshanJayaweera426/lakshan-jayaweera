@@ -32,8 +32,8 @@ export const NAVIGATION_LINKS = [
 
 export const PROFILE = {
   name: "Lakshan Jayaweera",
-  role: "Junior System Administrator",
-  subheading: "Passionate about IT Infrastructure & Systems Support",
+  role: "Trainee Full Stack Developer",
+  subheading: "Passionate About Building Scalable Web Applications",
 };
 
 export const PROJECTS = [
@@ -95,22 +95,6 @@ export const PROJECTS = [
 
 export const SKILLS = [
   {
-    name: "Windows Server",
-    icon: <RiTerminalLine className="text-blue-500" />,
-  },
-  {
-    name: "Cisco Networking",
-    icon: <RiServerLine className="text-green-500" />,
-  },
-  {
-    name: "PoweerShell",
-    icon: <RiTerminalLine className="text-blue-500" />,
-  },
-  {
-    name: "VMware",
-    icon: <RiServerLine className="text-green-500" />,
-  },
-  {
     name: "HTML5",
     icon: <RiHtml5Line className="text-orange-600" />,
   },
@@ -168,20 +152,6 @@ export const EXPERIENCES = [
     description:
       "Full Stack Development Intern at Unify IT Solutions, utilizing the MERN stack (MongoDB, Express.js, React.js, Node.js) to develop and maintain responsive web applications. Contributed to both front-end and back-end development, ensuring a seamless user experience and efficient data management.",
     techStack: ["Javascript", "React.js", "Next.js", "MongoDB", "Express.js "],
-  },
-  {
-    yearRange: "Feb 2019 - Feb 2020",
-    role: "Lab Assistant",
-    company: "DIGITEC Computer Systems",
-    description:
-      "I built and configured custom PCs, ensuring optimal hardware compatibility and performance for various use cases. I also set up a local server to centralize file storage and connect multiple devices across Windows and Linux systems, resolving connectivity and permission issues. I performed OS installations and repairs (Windows 10/11, Ubuntu), resolved driver conflicts, configured BIOS settings, and fixed boot errors. Additionally, I diagnosed and repaired hardware failures (such as RAM, HDD/SSD, and PSU) and addressed software issues including BSOD.",
-    techStack: [
-      "Operating Systems",
-      "Hardware & Configuration Tools",
-      "Server & Networking",
-      "Software & Utilities",
-      "File Systems & Protocols",
-    ],
   },
 ];
 
